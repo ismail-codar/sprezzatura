@@ -11,7 +11,8 @@
   },
   "devDependencies": {
     "jsdom": "latest",
-    "testem": "latest"
+    "testem": "latest",
+    "vdom-benchmark-base": "^0.2.4"
   },
   "scripts": {
     "testem": "testem ci -p 7358",
